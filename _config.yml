@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  name             : "Comp. Chemist"
+  avatar           : "headshot_720.jpg"
+  bio              : "Ph.D. Candidate in Biochemistry, NSF GRFP fellow"
   location         : "Blacksburg, VA"
   employer         :
   pubmed           : 
