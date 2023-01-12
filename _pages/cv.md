@@ -8,5 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
+{% include files %}
 
 [My personal CV](/files/julia_montgomery_CV.pdf)
