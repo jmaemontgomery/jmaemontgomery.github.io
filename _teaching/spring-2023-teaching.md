@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/spring-2023-teaching
 venue: "Virginia Tech, Department of Biochemistry"
-date: 2023-01-01
+date: 01-01-2023
 location: "Blacksburg, VA"
 ---
 

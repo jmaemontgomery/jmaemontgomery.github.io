@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/spring-2020-teaching
 venue: "Virginia Tech, Department of Biochemistry"
-date: 2020-01-01
+date: 01-01-2020
 location: "Blacksburg, Virginia"
 ---
 

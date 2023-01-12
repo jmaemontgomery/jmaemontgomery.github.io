@@ -4,7 +4,7 @@ collection: teaching
 type: "Work position"
 permalink: /teaching/undergraduate-tutor
 venue: "St. Joseph's University, Office for Tutoring and Academic Development"
-date: 2017-08-01
+date: 08-01-2017
 location: "Patchouge, NY"
 ---
 
