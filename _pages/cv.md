@@ -11,7 +11,11 @@ redirect_from:
 {% include files %}
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 [My personal CV](/files/julia_montgomery_CV.pdf)
+=======
+[My personal CV]()
+>>>>>>> parent of cbc58d9... Update cv.md
 =======
 [My personal CV]()
 >>>>>>> parent of cbc58d9... Update cv.md
