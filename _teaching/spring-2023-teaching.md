@@ -8,4 +8,4 @@ date: 01-01-2023
 location: "Blacksburg, VA"
 ---
 
-For this course, I was responsible for grading assignments and providing help to 40 students. I was able to develop a lecture centered around self-teaching in the realm of computational biochemistry, sharing resources about open source projects, and the back and forth of documentation and contribution.
+I am responsible for grading assignments and providing help to 40 students. I am working to able to develop a lecture centered around self-teaching in the realm of computational biochemistry, sharing resources about open source projects, and the back and forth of documentation and contribution. My goal is to bring attention to the hidden cirriculum in computational biochemistry.
