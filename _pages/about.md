@@ -1,16 +1,12 @@
 ---
 permalink: /
-title: "Julia Montgomery - PhD Candidate"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-
-
-
 
 My Background
 ======
@@ -25,4 +21,7 @@ I am passionate for accessible, efficient, and well-documented tech. Coming into
 Personal Interests 
 ======
 
-Outside of my work, I love animals, video games/board games, cooking, and traveling. 
+Outside of my work, I love animals, video games/board games, cooking, and traveling. My dog, Athena, knows far too much about biophysics thanks to her being my practice audience. She gives quite good feedback, too. 
+
+![Me and my dog, Athena at Bold Rock Cidery. She's a medium pitbull-like white dog with black spots all over her body.](athena.jpg =250x)
+
