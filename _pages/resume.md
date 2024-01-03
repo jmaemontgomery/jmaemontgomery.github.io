@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[My personal CV](/files/julia_montgomery_resume.pdf), updated 1/2024
+[My Resume](/files/julia_montgomery_resume.pdf), updated 1/2024
